@@ -38,11 +38,11 @@ const About = () => (
           </article>
         </div>
         <p>
-          Certified Full-Stack Web Developer,
-          I can help you build a product, feature or website.
-          Look through some of my work and experience!
-          If you like what you see and have a project you need coded,
-          don&apos;t hesitate to contact me.
+          Highly driven result-orientated Full-Stack Developer
+          with a deep passion for creating seamless and engaging web applications,
+          completed over 30 projects. Expertise in various technologies including
+          React, Redux, Ruby, PostgreSQL, Rails, HTML5, CSS3, and JavaScript.
+          Thrive in dynamic and fast-paced development environments.
         </p>
         <a href="#contact" className="btn btn-primary">Let&apos;s Talk</a>
       </div>
