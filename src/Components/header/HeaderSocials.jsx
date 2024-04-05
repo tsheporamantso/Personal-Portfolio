@@ -2,6 +2,7 @@
 import React from 'react';
 import { FaLinkedinIn, FaAngellist } from 'react-icons/fa';
 import { FaGithub, FaDribbble } from 'react-icons/fa6';
+import { AiOutlineCodeSandbox } from 'react-icons/ai';
 
 const HeaderSocials = () => (
   <div className="header__socials">
@@ -17,6 +18,9 @@ const HeaderSocials = () => (
       </a>
       <a href="https://dribbble.com/TshepoRamantso" target="_blank" rel="noreferrer">
         <FaDribbble />
+      </a>
+      <a href="https://codesandbox.io/dashboard/recent" target="_blank" rel="noreferrer">
+        <AiOutlineCodeSandbox />
       </a>
     </>
   </div>
